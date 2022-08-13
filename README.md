@@ -1,4 +1,4 @@
-# Gasatan
+# Gastaan
 ___
 > *CE student at Amirkabir University of Technology*
 *  I’m currently learning **Algorithms** 
