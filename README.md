@@ -6,9 +6,8 @@
 ___
 #### About me
 > *CE student at Amirkabir University of Technology*
-* My name is Saman Hazemi and I love programming and learning new things! My favorite language is C++ and I am trying to become friends with Python.
-*  I’m currently learning **Algorithms, C++, Python, PostgreSQL, AI**
-*  I'm interested and pursuing   **software** and **AI** 
+* My name is Saman Hazemi and I love programming and learning new things!
+*  I’m currently learning **Every thing**
 ___
 #### My skills
 <img src="https://redhat.com/cms/managed-files/tux-327x360.png" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
